@@ -1,6 +1,6 @@
-- Aerospace Engineer 🚀
+- Aerospace Engineer with Embbeded Systems Engineering 🚀
 - Rugby Enthusiast 🏉
-- 🇮🇪 living in 🇫🇷
-- 📫 ronankeane269@gmail.com / ronan.keane@student.isae-supaero.fr
+- Looking to move to London to pursue a career in Sofware Development / Embedded Systems
+- 📫 ronankeane269@gmail.com
 
 
